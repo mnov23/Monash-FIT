@@ -1,4 +1,6 @@
 A collection of all the course material that I've done and received through my course. Feel free to use them as needed, and if you want to add your own and expand the collection, go ahead.
+And a moment of silence for the mighty warriors who stormed through Monash's 3 year Comp Sci degree and passed despite the ~70% fail rate. You did well.
+I yoinked this repository from other alumni students.
 
 **Files**
 
